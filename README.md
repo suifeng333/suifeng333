@@ -1,7 +1,5 @@
 # Hi! I'm SUIFENG7663!
 
-## A 15-year-old programmer from China,please take care of me
-
 ## I know these languages...
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
