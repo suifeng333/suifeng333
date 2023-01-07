@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suifeng333&show_icons=true&theme=merko&count_private=true&hide=prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suifeng333&show_icons=true&theme=merko&count_private=true)
 
 Hi!there👋👋👋
 
