@@ -7,3 +7,7 @@ Hi!there👋👋👋
 👉A java developer and minecraft forge modding developer👈
 
 👉My bilibili homepage: https://space.bilibili.com/411895351 👈
+
+### 💻 Environment
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
