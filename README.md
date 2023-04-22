@@ -10,4 +10,3 @@ Hi!there👋👋👋
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
-[![Kali](https://badgen.net/badge/kali/2023.01/blue?icon=kali)](https://releases.ubuntu.com/22.04/)
