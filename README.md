@@ -6,7 +6,7 @@ Hi!there👋👋👋
 
 👉A java developer and minecraft forge modding developer👈
 
-👉My work e-mail : suifeng7663@bzgzs.cn 👈
+👉My work e-mail : suifeng7663@outlook.com 👈
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
